@@ -16,7 +16,14 @@ A web-based tool for managing and allocating budgets for different departments w
 18.06.2023
 
 ## Dependencies
-This project is built using React, Node.js, and HTML. Please refer to the package.json file for a complete list of dependencies and their versions.
+This project is built using React, Node.js, and HTML. Please refer to the `package.json` file for a complete list of dependencies and their versions.
+
+Bootstrap is another dependency for `react_budget_app` development. Bootstrap is a popular CSS framework that provides pre-designed components, responsive layout grids, and CSS stylesheets, making it easier to create visually appealing and mobile-friendly web pages.
+
+To include Bootstrap, one can use package managers like npm to install it as a dependency in the project. Run the following command to install Bootstrap:
+
+```bash
+npm install bootstrap
 
 ## Usage
 The budget allocator provides a user-friendly interface for budget allocation. Users can increase or decrease the allocated budget for each department, track the total budget, remaining budget, and spent amount. 
