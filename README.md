@@ -18,11 +18,11 @@ A web-based tool for managing and allocating budgets for different departments w
 ## Dependencies
 This project is built using React, Node.js, and HTML. Please refer to the `package.json` file for a complete list of dependencies and their versions.
 
-The project download zip file does not contain Node.js and package-lock files. However, to view the project on example port 3000, Node.js and the package-lock.json file are required dependencies. To install these dependencies, follow these steps:
+The project download zip file does not contain node_modules and package-lock.json files. However, to view the project on example port 3000, node_modules folder and package-lock.json are required dependencies. To install these dependencies, follow these steps:
 
 Ensure that Node.js is installed on your system. If not, you can download and install it from the official Node.js website (https://nodejs.org).
 
-Open a terminal or command prompt and navigate to the project directory.
+Open a terminal or command prompt and navigate to the project directory. 
 
 Run the following command in the terminal to create a new React app, which will generate the necessary files and folders including the node_modules and package-lock.json files:
 
@@ -31,9 +31,15 @@ npx create-react-app budget-allocator
 ```
 This command will create a new React app named "budget-allocator" and install the required dependencies.
 
-Delete almost all the contents of the "budget-allocator" folder, keeping only the node_modules and package-lock.json files.
+Delete almost all the contents, folders, files of the "budget-allocator" folder, keeping only the node_modules folder and package-lock.json file.
 
-Replace the deleted contents with the contents of the zip file provided in this react_budget_app.
+Replace the deleted contents of budget-allocator with the contents of the zip file provided in this react_budget_app.
+
+Once all the files and folders complete, one can run the project folder using the following command:
+
+```bash
+npm start
+```
 
 Bootstrap is another dependency for `react_budget_app` development. Bootstrap is a popular CSS framework that provides pre-designed components, responsive layout grids, and CSS stylesheets, making it easier to create visually appealing and mobile-friendly web pages.
 
