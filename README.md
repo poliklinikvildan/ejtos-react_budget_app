@@ -23,8 +23,8 @@ Bootstrap is another dependency for `react_budget_app` development. Bootstrap is
 To include Bootstrap, one can use package managers like npm to install it as a dependency in the project. Run the following command to install Bootstrap:
 
 ```bash
-npm install bootstrap```
-
+npm install bootstrap
+```
 ## Usage
 The budget allocator provides a user-friendly interface for budget allocation. Users can increase or decrease the allocated budget for each department, track the total budget, remaining budget, and spent amount. 
 ## Overview
