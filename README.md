@@ -40,7 +40,7 @@ Replace the deleted contents of budget-allocator with the contents of the zip fi
 
 
 
-Once all the files and folders are combined as shown in the VS Code editor screenshot above, you can run the project folder using the following command in a terminal or command prompt:
+Once all the files and folders are combined as shown in the VS Code editor screenshot above, one can run the project folder using the following command in a terminal or command prompt:
 ```bash
 npm start
 ```
