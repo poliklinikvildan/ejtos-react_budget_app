@@ -35,8 +35,9 @@ Delete almost all the contents, folders, files of the "budget-allocator" folder,
 
 Replace the deleted contents of budget-allocator with the contents of the zip file provided in this react_budget_app.
 
-Once all the files and folders complete, one can run the project folder using the following command:
+![Screenshot project contents vs code editor](https://github.com/poliklinikvildan/react_budget_app/assets/134360221/fdaf6c08-b08f-4e99-8966-27cee7f6d0fc)
 
+Once all the files and folders are combined as shown in the VS Code editor screenshot above, you can run the project folder using the following command in a terminal or command prompt:
 ```bash
 npm start
 ```
@@ -48,6 +49,11 @@ To include Bootstrap, one can use package managers like npm to install it as a d
 ```bash
 npm install bootstrap
 ```
+then
+```bash
+npm start
+```
+
 ## Usage
 The budget allocator provides a user-friendly interface for budget allocation. Users can increase or decrease the allocated budget for each department, track the total budget, remaining budget, and spent amount. 
 ## Overview
