@@ -35,7 +35,8 @@ Delete almost all the contents, folders, files of the "budget-allocator" folder,
 
 Replace the deleted contents of budget-allocator with the contents of the zip file provided in this react_budget_app.
 
-![Screenshot project contents vs code editor](https://github.com/poliklinikvildan/react_budget_app/assets/134360221/fdaf6c08-b08f-4e99-8966-27cee7f6d0fc)
+![Screenshot project contents vs code editor](https://github.com/poliklinikvildan/react_budget_app/assets/134360221/dfa5fd4b-53e7-4153-b656-6ced46983f1d)
+
 
 Once all the files and folders are combined as shown in the VS Code editor screenshot above, you can run the project folder using the following command in a terminal or command prompt:
 ```bash
