@@ -29,7 +29,7 @@ Run the following command in the terminal to create a new React app, which will 
 ```bash
 npx create-react-app budget-allocator
 ```
-This command will create a new React app named "budget-allocator" and install the required dependencies.
+Above command will create a new React app named "budget-allocator" and install the required dependencies.
 
 Delete almost all the contents, folders, files of the "budget-allocator" folder, keeping only the node_modules folder and package-lock.json file.
 
